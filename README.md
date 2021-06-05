@@ -1,8 +1,12 @@
-### Hi there 👋
+### About Me
+
+I'm a learner, thinker, and creator. I primarily use Python and web langauges for my projects, which involve machine learning, data processing & visualization, mathematics, and whatever else I find interesting. I'm on StackOverflow as [generic-stackoverflow-user](https://stackoverflow.com/users/10940584/generic-stackoverflow-user). For now, the best way to reach me directly is probably [my chat.stackoverflow.com page](https://chat.stackoverflow.com/users/10940584/generic-stackoverflow-user).
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=generic-github-user&theme=radical&include_all_commits=True&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=generic-github-user&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=generic-github-user&color=blue) -->
 
 
 <!--
