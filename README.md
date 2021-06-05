@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=generic-github-user&theme=radical&include_all_commits=True)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=generic-github-user&theme=radical&include_all_commits=True&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=generic-github-user&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
