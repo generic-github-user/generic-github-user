@@ -15,6 +15,16 @@ The following is a selection of my GitHub repositories, roughly categorized by t
 - [diagrammer](https://github.com/generic-github-user/diagrammer)
 - [ksp-tools](https://github.com/generic-github-user/ksp-tools)
 - [PowerNote](https://github.com/generic-github-user/PowerNote)
+
+#### Machine Learning and AI
+
+- [Caesium](https://github.com/generic-github-user/Caesium)
+
+#### Mathematics
+
+- [fractals](https://github.com/generic-github-user/fractals)
+- [primes](https://github.com/generic-github-user/primes)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=generic-github-user&theme=radical&include_all_commits=True&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=generic-github-user&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
