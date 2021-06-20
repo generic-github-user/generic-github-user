@@ -37,6 +37,20 @@ The following is a selection of my GitHub repositories, roughly categorized by t
 - [ascii-physics-sim](https://github.com/generic-github-user/ascii-physics-sim)
 - [grid-based-simulation](https://github.com/generic-github-user/grid-based-simulation)
 - [fire-spread-simulation](https://github.com/generic-github-user/fire-spread-simulation)
+
+#### Programming Languages
+
+- [turquoise](https://github.com/generic-github-user/turquoise)
+- [locus](https://github.com/generic-github-user/locus)
+
+#### Experimental & Theoretical Programming
+
+- [metamorphic](https://github.com/generic-github-user/metamorphic)
+
+#### Games
+
+- [byzantine](https://github.com/generic-github-user/byzantine) [this is a working title]
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=generic-github-user&theme=radical&include_all_commits=True&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=generic-github-user&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
