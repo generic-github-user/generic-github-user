@@ -25,6 +25,18 @@ The following is a selection of my GitHub repositories, roughly categorized by t
 - [fractals](https://github.com/generic-github-user/fractals)
 - [primes](https://github.com/generic-github-user/primes)
 
+##### Simulations and Dynamical Systems
+
+- [cellular-automata-experiments](https://github.com/generic-github-user/cellular-automata-experiments)
+- [particles](https://github.com/generic-github-user/particles)
+- [handwriting-generator](https://github.com/generic-github-user/handwriting-generator)
+- [roulette-curves](https://github.com/generic-github-user/roulette-curves)
+
+###### Physics
+
+- [ascii-physics-sim](https://github.com/generic-github-user/ascii-physics-sim)
+- [grid-based-simulation](https://github.com/generic-github-user/grid-based-simulation)
+- [fire-spread-simulation](https://github.com/generic-github-user/fire-spread-simulation)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=generic-github-user&theme=radical&include_all_commits=True&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=generic-github-user&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
