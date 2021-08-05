@@ -1,6 +1,6 @@
 ### About Me
 
-I'm a learner, thinker, and creator. I primarily use Python and web languages for my projects, which involve machine learning, data processing & visualization, mathematics, and whatever else I find interesting. I'm on StackOverflow as [generic-stackoverflow-user](https://stackoverflow.com/users/10940584/generic-stackoverflow-user). For now, the best way to reach me directly is probably [my chat.stackoverflow.com page](https://chat.stackoverflow.com/users/10940584/generic-stackoverflow-user).
+I'm a learner, thinker, and creator. I primarily use Python and web languages for my projects, which involve machine learning, data processing & visualization, mathematics, and whatever else I find interesting. I'm on StackOverflow as [generic-stackoverflow-user](https://stackoverflow.com/users/10940584/generic-stackoverflow-user). For now, the best way to reach me directly is probably [my chat.stackoverflow.com page](https://chat.stackoverflow.com/users/10940584/generic-stackoverflow-user). I don't always keep up with documenting my projects as well as I should, but I'm happy to answer any questions you send my way via a GitHub issue or other means.
 
 ### A summary of my projects
 
