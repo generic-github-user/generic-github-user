@@ -1,4 +1,4 @@
 You can reach me at:
 
-- discord: `./anna#9825`
+- discord: `parenthetically`
 - email: `jaallen@umass.edu`
